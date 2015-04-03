@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "rpi-aspnet-leds", "rpi-aspnet-leds.kproj", "{CAD1D13E-5754-4DA0-B5F1-71A72315DB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD1D13E-5754-4DA0-B5F1-71A72315DB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD1D13E-5754-4DA0-B5F1-71A72315DB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD1D13E-5754-4DA0-B5F1-71A72315DB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD1D13E-5754-4DA0-B5F1-71A72315DB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
